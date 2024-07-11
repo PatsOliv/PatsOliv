@@ -1,61 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7159B3&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F30D7&height=120&section=header"/>
 
-<br>
-<br>
 
 <div>
-<div  align="center" style="margin-bottom:100px">
-<img align="left" style="margin-bottom:100px; object-fit: contain" width=45% section="header" src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif"/> </div>
-  <h1 align="center"> Hi, I'm Patrícia
-</h1>
-<br> 
+  <div  align="left" style="margin-bottom:100px">
+  
+   <img align="right" style="margin-bottom:100px style=margin-right:10px; object-fit: contain" width=45% src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif"/> </div>
 
-<div align="center">
+  <h2 align="center"> Hi, I'm Patrícia
+  </h2>
 
-<p align="left">
-    
-#### 🔭 I’m currently working on ...
-#### 🌱 I’m currently learning ...
-#### 👯 I’m looking to collaborate on ...
-#### 🤔 I’m looking for help with ...
-</p>
+  <div align="left">
 
-</div>
-</div>
+  <p>
+  
+  <li> I'm a beginner developer.</li> 
+  <br>
+  <li> I want to learn about programming and use my skills to solve problems.</li>
+  <br>
+  <li> I'm preparing to get AWS and Microsoft certifications.</li>
+  <br>
+  <li> I'm looking for help with Machine learning, Cloud computing and cybersecurity.</li>
+  
+  </p>
+
+  </div>
+  </div>
+<br>
+<br>
 <br>
  &nbsp;&nbsp;&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
  &nbsp;&nbsp;&nbsp;
+<div  align="center" style="margin-bottom:100px">
+ 
 
 <img width=46% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=PatsOliv&theme=midnight-purple&mode=weekly" />
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <img width=46% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=midnight-purple&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
+ </div>
 
 <div  align="left" style="margin-bottom:100px">
   
-## My Skills
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+  <br>
+<h1 align="left"> My Skills </h1>
 
 #### Main Stack:
 
-![CSS](https://img.shields.io/badge/CSS3-7159B3?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-7159B3?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-7159B3?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-7159B3?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-7159B3?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-7159B3?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-AC5DBD?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-AC5DBD?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-AC5DBD?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-AC5DBD?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-AC5DBD?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Git](https://img.shields.io/badge/GIT-AC5DBD?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-7159B3?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-7159B3?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/Google_Cloud-7D53ED?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-7D53ED?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -64,8 +73,8 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-6F40EC?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-6F40EC?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4614CC?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-4614CC?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 
 </div>
@@ -75,15 +84,15 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/pat.pamina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4614CC?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/pat.pamina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-310E8E?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/patriciasoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4614CC?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
+<a href="https://www.linkedin.com/in/patriciasoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-310E8E?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
  
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E12B5&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=331395&height=110&section=footer"/>
 <!--
 **PatsOliv/PatsOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
