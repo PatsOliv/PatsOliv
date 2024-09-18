@@ -63,8 +63,6 @@
 
 ![Python](https://img.shields.io/badge/Python-7D53ED?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/AWS_Cloud-7D53ED?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-7D53ED?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-7D53ED?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
 #### Databases:
 
