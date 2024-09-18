@@ -67,7 +67,7 @@
 #### Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-6F40EC?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-6F40EC?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/PostgreSQL-6F40EC?style=for-the-badge&logo=dataworld&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
