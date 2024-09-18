@@ -84,8 +84,6 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/pat.pamina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-310E8E?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/patriciasoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-310E8E?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
  
