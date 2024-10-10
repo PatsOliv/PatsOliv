@@ -36,7 +36,7 @@
 <img width=48% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=PatsOliv&theme=midnight-purple&mode=weekly" />
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-<img width=35% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=midnight-purple&layout=compact" />
+<img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=midnight-purple&layout=compact" />
 
  
  &nbsp;
