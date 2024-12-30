@@ -19,7 +19,7 @@
   <br>
   <li> I'm preparing to get AWS and Microsoft certifications.</li>
   <br>
-  <li> I'm looking for help with Machine learning, Cloud computing and cybersecurity.</li>
+  <li> I'm looking for help with data analysis, machine learning and cloud computing.</li>
   
   </p>
 
