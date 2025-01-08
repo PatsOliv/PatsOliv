@@ -34,7 +34,8 @@
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatsOliv&theme=jolly&show_icons=true)
-<img width=55% align="right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
+&nbsp;&nbsp;&nbsp;
+<img width=50% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
 
  
  &nbsp;
