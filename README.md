@@ -33,7 +33,7 @@
 <div  align="center" style="margin-bottom:100px">
  
 
-<img width=48% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=PatsOliv&theme=midnight-purple&mode=weekly" />
+<img width=49% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=PatsOliv&theme=tokyonight&mode=weekly" />
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=midnight-purple&layout=compact" />
