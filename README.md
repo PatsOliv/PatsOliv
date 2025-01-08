@@ -33,7 +33,7 @@
 <div  align="center" style="margin-bottom:100px">
  
 
-<img width=49% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=PatsOliv&theme=jolly&mode=weekly" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatsOliv&theme=jolly&show_icons=true)
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
