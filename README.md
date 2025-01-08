@@ -6,8 +6,8 @@
   
    <img align="right" style="margin-bottom:100px style=margin-right:10px; object-fit: contain" width=45% src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif"/> </div>
 
-  <h2 align="center"> Hi, I'm Patrícia
-  </h2>
+  <h1 align="center"> Hi, I'm Patrícia
+  </h1>
 
   <div align="left">
 
@@ -24,11 +24,7 @@
   </p>
 
   </div>
-  </div>
 <br>
-<br>
-<br>
- &nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;
 <div  align="center" style="margin-bottom:100px">
  
