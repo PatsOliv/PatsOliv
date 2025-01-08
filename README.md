@@ -33,12 +33,7 @@
 <div  align="center" style="margin-bottom:100px">
  
 
-<a href="https://github.com/PatsOliv/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PatsOliv&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PatsOliv&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatsOliv&theme=jolly&show_icons=true)
 <img width=42% align="right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
 
  
