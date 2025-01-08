@@ -33,9 +33,9 @@
 <div  align="center" style="margin-bottom:100px">
  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PatsOliv&theme=jolly&show_icons=true" />
+<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=PatsOliv&theme=jolly&show_icons=true" />
 &nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
+<img width=50% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
 
  
  &nbsp;
