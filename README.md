@@ -35,7 +35,7 @@
 
 <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=PatsOliv&theme=jolly&show_icons=true" />
 &nbsp;&nbsp;&nbsp;
-<img width=46% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
+<img width=44% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PatsOliv&show_icons=true&theme=jolly&layout=compact" />
 
  
  &nbsp;
