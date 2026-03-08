@@ -56,7 +56,7 @@
 
 #### Databases:
 
-![MData.World](https://img.shields.io/badge/Data.World-6F40EC?style=for-the-badge&logo=data-world&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-6F40EC?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 
 
 #### Workstation Tools:
