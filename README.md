@@ -13,13 +13,35 @@
 
   <p>
   
-  <li> I'm a beginner developer.</li> 
-  <br>
-  <li> I want to learn about programming and use my skills to solve problems.</li>
-  <br>
-  <li> I'm preparing to get AWS and Microsoft certifications.</li>
-  <br>
-  <li> I'm looking for help with data analysis, machine learning and cloud computing.</li>
+Hi, I'm Patrícia Oliveira! 👋
+Developer focused on Data, automation, and building structured pipelines. 💻✨
+
+I am a Systems Analysis and Development student currently working as a Development Intern at Telecom. With an analytical mindset shaped by my background in Architecture, I am now passionate about building scalable solutions through code and transforming raw data into valuable business insights.
+
+--------
+
+
+🚀 What I do daily:
+
+Automation & Data: Developing Python scripts for file manipulation, ETL processes, and workflow automation.
+
+Integration: Consuming and handling RESTful APIs (requests).
+
+Orchestration: Creating and monitoring data pipelines using Apache Airflow.
+
+Collaboration: Working in agile teams with a constant focus on continuous improvement and clear communication.
+
+🛠️ Tech Stack & Tools:
+
+Languages & Libraries: Python, Pandas, NumPy, SQL.
+
+Data Engineering: Apache Airflow, Data Integration, ETL.
+
+Cloud & Certifications: AWS Cloud Practitioner, Microsoft Azure AI Fundamentals (AI-900), Azure Security & Compliance (SC-900), Oracle Cloud AI Foundations.
+
+Data Visualization: Power BI, Dashboards.
+
+Feel free to explore my repositories and hands-on projects below! 📫
   
   </p>
 
@@ -43,6 +65,7 @@
 ![Python](https://img.shields.io/badge/Python-AC5DBD?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/AWS_Cloud-AC5DBD?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-AC5DBD?style=for-the-badge&logo=dataworld&logoColor=white)&nbsp;
+![APache Airflow](https://img.shields.io/badge/Apache%20Airflow-AC5DBD?style=for-the-badge&logo=dataworld&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -52,7 +75,7 @@
 ![GCP](https://img.shields.io/badge/AWS_Cloud-7D53ED?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-7D53ED?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-7D53ED?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-7D53ED?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![SQl](https://img.shields.io/badge/SQL-7D53ED?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -63,7 +86,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4614CC?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-4614CC?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
+![Google Colab](https://img.shields.io/badge/Google%20Colab-4614CC?style=for-the-badge&logo=colab&logoColor=white)&nbsp;
 
 </div>
 &nbsp;
