@@ -39,7 +39,7 @@ Data Engineering: Apache Airflow, Data Integration, ETL.
 
 Cloud & Certifications: AWS Cloud Practitioner, Microsoft Azure AI Fundamentals (AI-900), Azure Security & Compliance (SC-900), Oracle Cloud AI Foundations.
 
-Data Visualization: Power BI, Dashboards.
+Data Visualization: Power BI, Looker Studio, Dashboards.
 
 Feel free to explore my repositories and hands-on projects below! 📫
   
@@ -64,18 +64,19 @@ Feel free to explore my repositories and hands-on projects below! 📫
 ![Git](https://img.shields.io/badge/GIT-AC5DBD?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-AC5DBD?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/AWS_Cloud-AC5DBD?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-AC5DBD?style=for-the-badge&logo=dataworld&logoColor=white)&nbsp;
-![APache Airflow](https://img.shields.io/badge/Apache%20Airflow-AC5DBD?style=for-the-badge&logo=dataworld&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-AC5DBD?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![APache Airflow](https://img.shields.io/badge/Apache%20Airflow-AC5DBD?style=for-the-badge&logo=apacheairflow&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
 ![Python](https://img.shields.io/badge/Python-7D53ED?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-7D53ED?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/AWS_Cloud-7D53ED?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-7D53ED?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-7D53ED?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![SQl](https://img.shields.io/badge/SQL-7D53ED?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
+![Looker](https://img.shields.io/badge/LOOKER_STUDIO-7D53ED?style=for-the-badge&logo=looker&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/AZURE-7D53ED?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![SQl](https://img.shields.io/badge/SQL-7D53ED?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -84,9 +85,10 @@ Feel free to explore my repositories and hands-on projects below! 📫
 
 #### Workstation Tools:
 
+![Jupyter](https://img.shields.io/badge/Jupyter-4614CC?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4614CC?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-4614CC?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Google Colab](https://img.shields.io/badge/Google%20Colab-4614CC?style=for-the-badge&logo=colab&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Google%20Colab-4614CC?style=for-the-badge&logo=googlecolab&logoColor=white)&nbsp;
 
 </div>
 &nbsp;
